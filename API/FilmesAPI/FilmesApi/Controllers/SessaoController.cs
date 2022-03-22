@@ -1,12 +1,6 @@
-﻿using AutoMapper;
-using FilmesAPI.Data;
-using FilmesAPI.Data.Dtos.Sessao;
-using FilmesAPI.Models;
+﻿using FilmesAPI.Data.Dtos.Sessao;
 using FilmesAPI.Services;
 using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace FilmesAPI.Controllers
 {
